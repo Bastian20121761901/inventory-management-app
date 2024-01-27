@@ -1,0 +1,36 @@
+Pestaña de inventariios - ¿Cuantos inventarios hay?
+			- ¿Productos para cada inventario?
+
+Pestaña panel de control - 
+
+Pestaña de artículos - Tiene que ver un buscador y al lado la opcion de scanear codigo de barras.
+		     - Se podra crear, editar, eliminar, actualizar datos del producto?
+  		     - Se podra analizar a detalle el flujo de historial de venta del producto(diagrama de estadisticas)
+
+Pestaña Gestionar pedidos - podra crear recibos o notas de pedido?
+
+Pestaña Gestionar paquetes - 
+
+Pestaña Gestion de contactos - 
+
+Pestaña Historial de acciones - Aqui podria ir la compra y venta que se estuvo realizando.
+
+Pestaña de Registros - ¿Se registraran los movimientos de stock y venta?
+		     - ¿Tendra estadisticas de stock y venta por inventario?
+		     - Abra lo siguiente?: venta por vienes, venta por clientes, compras por proveedor, el movimiento de stock, gastos, informe ded reabastecimiento, la lista de coumentos, las ganancias y las perdidas, lista de transacciones, ventas por fecha, ventas por mes, ventas por usuario.
+
+Función escaneo - ¿La aplicacion podra escanear codigo de barras?
+
+Gestión de stock - ¿El sistema podra añadir producto?
+
+Sincronización con equipo - ¿El sistema podra contar con una gestion en equipo en simultaneo?
+
+Alertas - ¿La aplicación podra dar alerta por falta de productos?
+	- ¿La aplicacion podra mostrar alertas por fecha de vencimiento?
+
+Gastos - ¿Podrá realizar un seguimiento de los gastos de la tienda?
+
+Requisitos - Debe funcionar sin conexión a internet.
+	   - Debe poder exportar e importar archivos excel (Gestión de stock - resumen)
+	   - Debe poder mostrar informe de ventas en pdf y excel?
+	   - Debe poder gestionarse por categorias las secciones.
